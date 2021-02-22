@@ -62,7 +62,7 @@ REST API | GraphQL
 • Github, Gitlab, Bitbucket, Jira, Trello, Asana, Slack
 
 
-## How we do it
+## How we do it:
 
 - CAN-DO attitude
 - WILL-DO willingness
@@ -71,24 +71,20 @@ REST API | GraphQL
 - Communication
 
 
-## Discuss a Project
+## Discuss a Project:
 
-https://zoom.us/j/5145570007
+<p> Book an <a href="ttps://calendly.com/thewebgurusllc">Appointment</a>.</p>
 
 
-## Book an Appointment
-
-https://calendly.com/thewebgurusllc
-
-## Send and email
+## Email:
 
 admin@thewebgurusllc
 
-## Call
+## Phone :
 
  +1 (347) 905-9825
  
-## Fax
+## Fax :
 
 +1 (646) 844-1599
 
