@@ -78,15 +78,15 @@ REST API | GraphQL
 
 ## Email:
 
-admin@thewebgurusllc
+<p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
 
 ## Phone :
 
- +1 (347) 905-9825
+<a href=”+13479059825”>+1 (347) 905 9825</a>
  
 ## Fax :
 
-+1 (646) 844-1599
+<a href="fax:+1.6468.441599">+1.(646)844 1599</a>
 
 
 
