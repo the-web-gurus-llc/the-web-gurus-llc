@@ -21,17 +21,17 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
  Vue | Vex | Vuetify | Mixins|  Nuxt
  React | Redux | Mobx | Flux | Thunk | Saga | React Hooks | Next| Gatsby
  React Native | Xamarin
-- Java | Kotlin | Android Studio| Swift | Swift UI | Xcode
-- AngularJS | Angular2+ |  NgRx
-- Node | Express | Nest | Fastify
-- PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
-- HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap | Sass| Less | Material UI | TailwindCss
-- WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
-- WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
-- C# | .NET | ASP.NET
-- Python | Django | Flask
-- MySQL | MongoDB | Postgres | DynamoDB | Firebase
-- REST API | GraphQL
+ Java | Kotlin | Android Studio| Swift | Swift UI | Xcode
+ AngularJS | Angular2+ |  NgRx
+ Node | Express | Nest | Fastify
+PHP | Laravel, Lumen | Symfony | CodeIgniter | Golang | Yii | CakePHP | WordPress | Joomla | Opencart | Prestashop | Drupal
+HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap | Sass| Less | Material UI | TailwindCss
+WordPress, Wix | Joomla | Drupal | Opencart | CraftCMS | Prestashop | Squarespace
+WooCommerce | Shopify | BigCommerce | Magento | Squarespace| Bigcartel
+C# | .NET | ASP.NET
+Python | Django | Flask
+MySQL | MongoDB | Postgres | DynamoDB | Firebase
+REST API | GraphQL
 
 ## What we do:
 
