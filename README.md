@@ -71,22 +71,18 @@ REST API | GraphQL
 - Communication
 
 
-## Discuss a Project:
 
 <p><a href="ttps://calendly.com/thewebgurusllc"> Book an Appointment</a>.</p>
 
 
-## Email:
 
-<p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
+<p>Send<a href="mailto:admin@thewebgurusllc">email</a></p>
 
-## Phone :
 
-<a href=”+13479059825”>+1 (347) 905 9825</a>
+<p>Call<a href=”+13479059825”>Now</a></p>
  
-## Fax :
 
-<a href="fax:+1.6468.441599">+1.(646)844 1599</a>
+<p>Send<a href="fax:+1.6468.441599">Fax</a></p>
 
 
 
