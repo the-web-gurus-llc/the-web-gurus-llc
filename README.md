@@ -18,9 +18,9 @@ HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
 
 ## Skills:
 
-- Vue | Vex | Vuetify | Mixins|  Nuxt
-- React | Redux | Mobx | Flux | Thunk | Saga | React Hooks | Next| Gatsby
-- React Native | Xamarin
+ Vue | Vex | Vuetify | Mixins|  Nuxt
+ React | Redux | Mobx | Flux | Thunk | Saga | React Hooks | Next| Gatsby
+ React Native | Xamarin
 - Java | Kotlin | Android Studio| Swift | Swift UI | Xcode
 - AngularJS | Angular2+ |  NgRx
 - Node | Express | Nest | Fastify
