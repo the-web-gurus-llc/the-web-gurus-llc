@@ -73,7 +73,7 @@ REST API | GraphQL
 
 ## Discuss a Project:
 
-<p> Book an <a href="ttps://calendly.com/thewebgurusllc">Appointment</a>.</p>
+<p><a href="ttps://calendly.com/thewebgurusllc"> Book an Appointment</a>.</p>
 
 
 ## Email:
