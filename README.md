@@ -82,7 +82,7 @@ REST API | GraphQL
 <p><a href=”+1.347.905.9825”>Call</a></p>
  
 
-<p><a href="fax:+1.6468.441599">Fax</a></p>
+<p><a href="fax:+1.646.844.1599">Fax</a></p>
 
 
 
