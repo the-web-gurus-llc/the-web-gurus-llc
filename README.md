@@ -72,17 +72,17 @@ REST API | GraphQL
 
 
 
-<p><a href="ttps://calendly.com/thewebgurusllc"> Book an Appointment</a>.</p>
+<p><a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a>.</p>
 
 
 
-<p>Send<a href="mailto:admin@thewebgurusllc">email</a></p>
+<p><a href="mailto:admin@thewebgurusllc">Send email</a>.</p>
 
 
-<p>Call<a href=”+13479059825”>Now</a></p>
+<p><a href=”+13479059825”>Call </a>.</p>
  
 
-<p>Send<a href="fax:+1.6468.441599">Fax</a></p>
+<p><a href="fax:+1.6468.441599">Fax</a>.</p>
 
 
 
