@@ -72,7 +72,7 @@ REST API | GraphQL
 
 
 
-<p><a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a>.</p>
+<p><a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a></p>
 
 
 
