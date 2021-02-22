@@ -79,7 +79,7 @@ REST API | GraphQL
 <p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
 
 
-<p><a href=”+13479059825”>Call </a></p>
+<p><a href=”+1.347.905.9825”>Call</a></p>
  
 
 <p><a href="fax:+1.6468.441599">Fax</a></p>
