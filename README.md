@@ -79,7 +79,7 @@ REST API | GraphQL
 <p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
 
 
-<p><a href="/Company-Profile-new.pdf">Download Company Profile</a></p>
+<p><a href="Company-Profile-new.pdf">Download Company Profile</a></p>
 
 
 
