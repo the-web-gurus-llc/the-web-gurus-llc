@@ -64,9 +64,9 @@ REST API | GraphQL
 
 ## How we do it:
 
-- CAN-DO attitude
-- WILL-DO willingness
-- SHOULD-DO responsibility
+- CAN DO attitude
+- WILL DO willingness
+- SHOULD DO responsibility
 - GOOD to BETTER, BETTER to BEST approach
 - Communication
 
@@ -79,7 +79,7 @@ REST API | GraphQL
 <p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
 
 
-<p><a href="https://drive.google.com/file/d/18zs7VsxYoeVqOtGgn_MKuIiX5g2IbT2O/view?usp=sharing">Download Company Profile</a></p>
+<p><a href="https://drive.google.com/file/d/18zs7VsxYoeVqOtGgn_MKuIiX5g2IbT2O/view?usp=sharing">Company Profile</a></p>
 
 
 
