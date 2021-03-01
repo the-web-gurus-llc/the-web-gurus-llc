@@ -72,14 +72,13 @@ REST API | GraphQL
 
 
 
-<p><a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a></p>
+Want to talk about your new project? <p><a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a></p>
 
 
 
-<p><a href="mailto:admin@thewebgurusllc">Ask anything about web app, mobile app or desktop app</a></p>
 
+Looking for support? p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
 
-24/7 Technical Support System is now available! 
 
 
 
