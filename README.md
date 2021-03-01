@@ -83,7 +83,7 @@ Looking for dev support?
 <a href="mailto:admin@thewebgurusllc">Send email</a>
 
 
-<a href="https://drive.google.com/file/d/110fNlpEpJKiFmIVg9sE-n05wcP3604Db/view?usp=sharing"Privacy Policy</a>
+<a href="https://drive.google.com/file/d/110fNlpEpJKiFmIVg9sE-n05wcP3604Db/view?usp=sharing">Privacy Policy</a>
 
 
 
