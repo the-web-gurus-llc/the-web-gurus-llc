@@ -76,7 +76,7 @@ REST API | GraphQL
 
 
 
-<p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
+<p><a href="mailto:admin@thewebgurusllc">Ask anything about web app, mobile app or desktop app</a></p>
 
 
 24/7 Technical Support System is now available! 
