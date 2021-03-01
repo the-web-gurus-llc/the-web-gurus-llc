@@ -75,12 +75,12 @@ REST API | GraphQL
 Want to talk about your new project? 
 
 
-<p><a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a></p>
+<a href="https://calendly.com/thewebgurusllc"> Book an Appointment</a>
 
 
 Looking for dev support? 
 
-<p><a href="mailto:admin@thewebgurusllc">Send email</a></p>
+<a href="mailto:admin@thewebgurusllc">Send email</a>
 
 
 
