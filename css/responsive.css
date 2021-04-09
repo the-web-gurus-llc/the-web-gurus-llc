@@ -1,0 +1,538 @@
+@media screen and (max-width: 991px) and (min-width: 767px) {
+
+    .profile-blue h1 {
+        font-size: 5vw;
+    }
+
+    .profile-blue p {
+        line-height: 179.1%;
+        width: 75vw;
+        padding-left: 14%;
+        font-size: 2.5vw;
+    }
+
+    .profile-blue {
+        height: 614px;
+    }
+
+    .rotate-text{
+        display: none;
+    }
+
+    .v-distance {
+        padding-top: 44px;
+    }
+
+    .second-img {
+        width: 100%;
+        padding-left: 0;
+    }
+
+
+ .about_us{
+    position: relative;
+    background-position-x: 65px;
+    height: 693px;
+ }
+
+
+ .about_us p {
+    font-size: 12px;
+}
+.about_us h3 {
+    font-size: 19px;
+}
+
+.about_us .about3  {
+    width: 48%;
+}
+
+.about_us .about2  {
+    width: 48%;
+}
+
+.about_us .about1  {
+    width: 48%;
+}
+
+/*******teams********/
+
+.section2 .line-team{
+    position: absolute;
+    top: 0px;
+}
+
+.section2 .heading1 {
+    padding-left: 18%;
+    font-size: 6vw;
+}
+
+.section2 .heading2 {
+    padding-left: 18%;
+    font-size: 6vw;
+}
+.section2 .dot{
+    width: 25px;
+    height: 24px;
+    margin-left: 3%;
+    top: 44px;
+}
+.img3-text {
+    margin-top: 84px;
+    padding-left: 0;
+}
+
+/********** projects **************/
+
+.section2 .line-project{
+    position: absolute;
+    top: 85px;
+}
+
+.section2 .heading1 {
+    padding-left: 18%;
+    font-size: 5vw;
+}
+
+.section2 .heading2 {
+    padding-left: 18%;
+    font-size: 5vw;
+}
+.section2 h2 {
+    padding-left: 18%;
+    font-size: 2vw;
+}
+.section2 .dot{
+    width: 25px;
+    height: 24px;
+    margin-left: 3%;
+    top: 44px;
+}
+.blue-back {
+    height: 137px;
+}
+
+/******************* index **************/
+
+.main-dist{
+    margin-bottom: 137px;
+    height: 214px;
+}
+.index-design span {
+    font-size: 1.5vw;
+    padding-left: 11px;
+}
+.index-leaders img{
+    width:100% ;
+     height: 235px;
+}
+.footer-mobile{
+    display: none;
+  }
+
+  .footer ul li a {
+    color: white;
+    font-size: 1.6vw;
+}
+
+}
+
+@media screen and (max-width: 766px) and (min-width: 576px)  {
+
+    .profile-blue h1 {
+        font-size: 6vw;
+    }
+
+    .profile-blue p {
+        line-height: 179.1%;
+        width: 75vw;
+        padding-left: 14%;
+        font-size: 3vw;
+    }
+
+    .profile-blue {
+        height: 614px;
+    }
+
+    .rotate-text{
+        display: none;
+    }
+
+    .v-distance {
+        padding-top: 44px;
+    }
+
+    .second-img {
+        width: 100%;
+        padding-left: 0;
+    }
+    .section2 p {
+        font-size: 17px;
+        padding-left: 0px;
+    }
+    .about_us{
+        background-image: none;
+    }
+    .mobile-display img{
+        display: block;
+        padding-left: 10%;
+        width: 94%;
+    }
+
+    .about_us .about1 {
+        width: 77%;}
+
+    .about_us .about2 {
+         width: 77%;}
+
+    .about_us .about3 {
+          width: 77%;}
+
+
+     /*******teams*****/
+     
+     .section2 .line-team{
+        position: absolute;
+        top: 0px;
+    }
+    .section2 .heading1 {
+        padding-left: 23%;
+        font-size: 4vw;
+    }
+
+    .section2 .heading2 {
+        padding-left: 23%;
+        font-size: 4vw;
+    }
+    .section2 .dot{
+        width: 17px;
+        height: 17px;
+        margin-left: 3%;
+        top: 22px;
+    }
+
+    .img1-text h5 {
+        font-size: 4vw;
+    }
+
+    .img2-text  h5 {
+        font-size: 4vw;
+    }
+    .img3-text {
+        margin-top: 33px;
+        padding-left: 0;
+    }
+
+    /***********projects **********/
+
+    .section2 .line-project{
+        position: absolute;
+        top: 60px;
+    }
+    .section2 .heading1 {
+        padding-left: 23%;
+        font-size: 4vw;
+    }
+
+    .section2 .heading2 {
+        padding-left: 23%;
+        font-size: 4vw;
+    }
+    .section2 .dot{
+        width: 17px;
+        height: 17px;
+        margin-left: 3%;
+        top: 22px;
+    }
+    .section2 h2{
+        padding-left: 22%;
+        font-size: 3vw;
+    }
+
+    .orange-style :nth-child(1) {
+        height: 39px;
+        margin-top: 19px;
+        width: 9px;
+    }
+    .orange-style :nth-child(2) {
+        position: relative;
+        top: 17px;
+    }
+    .blue-back {
+        height: 83px;
+    }
+
+    /***** index ***********/
+    .arrows img{
+        width: 37%;
+    }
+    .main-dist{
+        margin-bottom: 137px;
+        height: 198px;
+    }
+
+    .mobile-skill {
+        display: none;
+    }
+    .index-design span {
+        font-size: 2.1vw;
+        padding-left: 9px;
+    }
+    .index-leaders img {
+        width: 100%;
+        height: 201px;
+    }
+    .footer-desktop{
+        display: none;
+      }
+      .footer-mobile{
+        display: block;
+    }
+    
+/**************** contact ****************/
+    .height-img-contact{
+    height: 367px;
+     }
+
+}
+
+
+@media screen and (max-width: 575px) and (min-width: 320px)  {
+
+    .profile-blue h1 {
+        font-size: 7vw;
+    }
+
+    .profile-blue p {
+        line-height: 179.1%;
+        width: 75vw;
+        padding-left: 14%;
+        font-size: 4vw;
+    }
+
+    .profile-blue {
+        height: 614px;
+    }
+
+    .rotate-text{
+        display: none;
+    }
+
+    .v-distance {
+        padding-top: 44px;
+    }
+
+    .second-img {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .section2 p {
+        font-size: 15px;
+        padding-left: 0px;
+    }
+
+    .about_us{
+        background-image: none;
+    }
+    .mobile-display img{
+        display: block;
+        padding-left: 10%;
+        width: 94%;
+        margin-top: 62px;
+        height: 500px;
+    }
+
+    .about_us .about1 {
+        width: 90%;}
+
+    .about_us .about2 {
+         width: 90%;}
+
+    .about_us .about3 {
+          width: 90%;}
+
+    /******teams******/
+    
+    .section2 .line-team{
+        position: absolute;
+        top: 0px;
+    }
+    .section2 .heading1 {
+        padding-left: 23%;
+        font-size: 4vw;
+    }
+
+    .section2 .heading2 {
+        padding-left: 23%;
+        font-size: 4vw;
+    }
+    .section2 .dot{
+        width: 13px;
+        height: 13px;
+        top: 14px;
+        margin-left: 0;
+    }
+    .img1-text  {
+        padding-left: 0;
+        margin-top: 192px;
+        padding-bottom: 0;
+    }
+    .img1-text  h5 {
+        font-size: 4vw;
+    }
+
+    .img2-text{
+        margin-top: 32px;
+        padding-left: 0%;
+    }
+
+    .img2 {
+        margin-left: 0;
+        height: 300px;
+        padding-top: 0px;
+    }
+
+    .img2-text  h5 {
+        font-size: 4vw;
+    }
+    .img1 {
+        margin-left: 5%;
+        height: 194px;
+        padding-top: 0px;
+        margin-top: 129px;
+        width: 100%;
+    }
+
+    .img2 {
+        height: 172px;
+        width: 100%;
+       }
+
+    .img3 {
+        margin-left: 4%;
+        height: 171px;
+        margin-top: -68px;
+        width: 100%;
+    }
+
+    .img3-text {
+        margin-top: 33px;
+        padding-left: 0;
+    }
+
+    /************** projects*******/
+
+    .section2 .line-project{
+        position: absolute;
+        top: 42px;
+    }
+    .section2 .heading1 {
+        padding-left: 22%;
+        font-size: 4vw;
+    }
+
+    .section2 .heading2 {
+        padding-left: 22%;
+        font-size: 4vw;
+    }
+
+    .section2 h2{
+        padding-left: 22%;
+        font-size: 3vw;
+    }
+    .section2 .dot{
+        width: 13px;
+        height: 13px;
+        top: 14px;
+        margin-left: 0;
+    }
+
+    .top-dis{
+       margin-bottom: 700px;
+       background-image: none;
+    }
+    .hr-display{
+        display: none;
+    }
+    
+    .gray-background{
+        background-image: none;
+    }
+
+    .blue-background3{
+        background-image: none;
+    }
+    .project-block{
+        display: block;
+    }
+
+    .project-block2{
+        display: block;
+    }
+
+    .img-block1{
+        padding-left: 17%;
+        padding-top: 8px;
+        width: 97%;
+        display: block;
+    }
+
+    .img-block2{
+        padding-left: 17%;
+        padding-top: 50px;
+        width: 97%;
+        display: block;
+    }
+
+    /******************** index ********************/
+
+    .arrows img{
+        width: 40%;
+    }
+
+    .main-dist{
+        margin-bottom: 100px;
+    }
+
+    .mobile-skill {
+        display: none;
+    }
+    .index-design span {
+        font-size: 2.1vw;
+        padding-left: 6px;
+    }
+    .index-leaders img {
+        width: 100%;
+        height: 296px;
+    }
+
+    .lead3{
+        display: none;
+    }
+
+    /*******************footer ***********/
+    .footer-copyright{
+        font-size: 4vw;
+    }
+
+    .footer ul li a {
+        font-size: 4vw;
+    }
+    .footer-desktop{
+      display: none;
+    }
+    .footer-mobile{
+        display: block;
+    }
+
+    /************ contact *********/
+    .display-contact span {
+        font-size: 13px;
+    }
+
+    .height-img-contact{
+        height: 367px;
+         }
+    
+}

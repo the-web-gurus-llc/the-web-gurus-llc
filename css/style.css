@@ -1,0 +1,365 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+  font-family: bodyfont;
+  src: url(Montserrat-Regular.ttf);
+  
+}
+@font-face {
+  
+  font-family: headingfont;
+  src: url(Montserrat-Bold.ttf);
+}
+
+@font-face {
+  
+  font-family: footerheading;
+  src: url(Montserrat-SemiBold.ttf);
+}
+
+body{
+height: 100%;
+margin:0;
+font-family: bodyfont;
+}
+
+.row {
+  margin-right:0;
+  margin-left:0;
+}
+.topnav {
+  overflow: hidden;
+    margin: 0 auto;
+    width: 90%;
+    border-bottom: 1px solid #C4C4C4;
+}
+.logo{
+    padding: 10px 38px !important;
+}
+
+.topnav a {
+    font-family: headingfont;
+  float: left;
+  display: block;
+  color: #28405B;
+  text-align: center;
+  padding: 49px 0.5rem;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topnav a:hover {
+  color: #28405B;
+}
+
+.topnav a.active {
+  color: #28405B;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+
+/* @media screen and (max-width: 768px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+    padding: 46px 18px !important;
+  }
+  .logo {
+    padding: 10px 0px !important;
+    text-align: left !important;
+}
+}
+
+@media screen and (max-width: 768px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 14px 18px;
+  }
+} */
+.custom_btn{
+    padding: 30px !important;
+}
+  .custom_btn button {
+    color: white !important;
+    background: #243A55;
+    width: 158px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    font-family: headingfont;
+    font-size: 14px;
+  }
+  /* .banner1{
+    background-image: url("imgs/welcome.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 708px;
+    position: relative;
+    margin-top: 30px;
+} */
+
+.banner1 .m_heading{
+  font-size: 3.5vw;
+  color: white;
+  position: relative;
+  top: 115px;
+  margin-left: 23%;
+  font-family: headingfont;
+}
+.banner1 .subheading{
+    position: relative;
+    top: 110px;
+    margin-left: 23%;
+    font-size: 3.5vw;
+    color: #28405B;
+    font-family: headingfont;
+}
+.banner1 p {
+    color: #485057;
+    position: relative;
+    top: 115px;
+    margin-left: 23%;
+    line-height: 3vw;
+    font-size: 1.4vw;
+}
+.banner1 button{
+  position: relative;
+  width: 184px;
+  height: 56px;
+  margin-left: 23%;
+  top: 13vw;
+  background: #243A55;
+  border-radius: 10px;
+  color: white;
+}
+
+.main-back{
+  background-image: url(imgs/main-back.png);
+  background-position-y: 427px;
+  background-repeat: no-repeat;
+  display: flex;
+}
+
+
+.first{
+  background-image: url("imgs/main-orange.png");
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+  height: 708px;
+  position: relative;
+  margin-top: 30px;
+  height: 539px;
+    background-position-x: 87px;
+    width: 50vw;
+    margin-bottom: 105px;
+}
+
+.second{
+  background-image: url("imgs/main-blue.png");
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+  height: 441px;
+  position: relative;
+  margin-top: 30px;
+  background-position-y: 60px;
+  width: 49vw;
+}
+
+.second :nth-child(1){
+  width: 127px;
+  position: relative;
+  top: 92px;
+  margin-left: 24px;
+}
+
+.second :nth-child(2){
+  width: 126px;
+  margin-left: -62px;
+  top: 161px;
+  position: relative;
+}
+
+.second :nth-child(3){
+  width: 124px;
+  margin-left: -49px;
+  top: 230px;
+  position: relative;
+}
+
+
+.second .bye{
+  float: left;
+  position: relative;
+  top: 350px;
+
+}
+.second .bye2{
+  float: left;
+  position: relative;
+  top: 313px;
+  width: 55%;
+}
+.second p{
+  float: right;
+  position: relative;
+  top: 285px;
+  margin-right: 20%;
+}
+ .section7 {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+}
+.section2 .heading1{
+    padding-left: 28%;
+    font-size: 60px;
+    color: #FF9100;
+    margin-bottom: 0;
+    font-family: footerheading;
+}
+.section2 .heading2 {
+    padding-left: 28%;
+    font-size: 60px;
+    color: #28405B;
+    margin-top: 0;
+    font-family: footerheading;
+}
+.section2 h2{
+    font-family: headingfont;
+    font-size: 22px;
+    color: #FF9100;
+    padding-left: 28%;
+}
+.section2 p{
+    color:#485057;
+    font-size: 22px;
+   line-height: 172.2%;
+    padding-left: 40px;
+
+}
+/* .about1{
+  background-image: url("imgs/about1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height:600px;
+}
+
+.about2{
+  background-image: url("imgs/about2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height:600px;
+} */
+
+
+.about_us{
+    background-image: url("imgs/Group 99.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 650px;
+    margin-top: 90px;
+    position: relative;
+    background-position-x: 203px;
+}
+.about_us .about1{
+    position: relative;
+    width: 32%;
+
+    background: #FFFFFF;
+    border: 1px dashed #485057;
+    box-sizing: border-box;
+        padding: 0px 20px;
+}
+.about_us .about2{
+    /* position: relative;
+    width: 511px;
+    height: 187px;
+    left: 689px;
+    top: 300px; */
+    width: 32%;
+    background: #FF9100;
+        padding: 0px 20px;
+        box-sizing: border-box;
+}
+.about_us .about3{
+    /* position: relative;
+    width: 511px;
+    height: 187px;
+    left: 689px;
+    top: 560px; */
+    width: 32%;
+    background: #FFFFFF;
+    border: 1px dashed #485057;
+    box-sizing: border-box;
+        padding: 0px 20px;
+}
+.about_us h3{
+    font-size: 22px;
+    font-weight: 600;
+    color: #28405B;
+}
+.about_us p{
+    font-size: 14px;
+    line-height: 172.2%;
+    color: #485057;
+    padding: 0;
+}
+.section7 .heading2{
+    padding-left: 35px;
+    font-size: 70px;
+    color: #FF9100;
+    margin-top: 0;
+    font-family: footerheading;
+}
+.section7 .heading1 {
+    padding-left: 35px;
+    font-size: 70px;
+    color: #28405B;
+    margin-bottom: 0;
+    font-family: footerheading;
+}
+.team_leads{
+    background-image: url("imgs/Team leads.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.team_container{
+    /* display: flex;
+    width: 80%;
+    margin:0 auto; */
+    margin-top: 100px;
+    padding-left: 7%;
+}
+.team_container h3 {
+    color: #FF9100;
+    font-size: 22px;
+    font-family: headingfont;
+
+}
+.team_container p{
+    font-size: 15px;
+    font-family: headingfont;
+    color: white;
+}
+
+.mainSkills-font{
+  font-size: 1.3vw;
+}
+
+.main-contact{
+  margin-top: 92px
+}
+
