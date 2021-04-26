@@ -1166,9 +1166,7 @@ WordPress and Laravel development Team.">
 					<li class="list-item">
 						<a href="teams.html" class="mb-1 pl-2">Team</a>
 					</li>
-					<li class="list-item">
-						<a href="https://thewebgurusllc.zendesk.com/" class="mb-1 pl-2">Employee</a>
-					</li>
+
 					<li class="list-item">
 						<a href="https://drive.google.com/file/d/110fNlpEpJKiFmIVg9sE-n05wcP3604Db/view" class="mb-1 pl-2">Terms & Conditions</a>
 					</li>
@@ -1215,28 +1213,7 @@ WordPress and Laravel development Team.">
 			</div>
 		</div>
 	</footer>
-	<!--scripts loaded here-->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-	<script src="js/slider.js"></script>
-
-	<script>
-		function openNav() {
-			document.getElementById(
-				"mySidebar").style.width = "212px";
 	
-		}
-
-		/* Set the width of the sidebar to 0
-		and the left margin of the page content to 0 */
-		function closeNav() {
-			document.getElementById(
-				"mySidebar").style.width = "0";
-			document.getElementById(
-				"main").style.marginLeft = "0";
-		}
-	</script>
 </body>
 
 <!-- Calendly badge widget begin -->
@@ -1244,6 +1221,37 @@ WordPress and Laravel development Team.">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/thewebgurusllc?hide_landing_page_details=1', text: 'Book a Meeting', color: '#4d5055', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
+
+
+
+<!-- Start of Async Drift Code -->
+<script>
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('da33dtppfc5w');
+</script>
+<!-- End of Async Drift Code -->
 
 </html>
 
