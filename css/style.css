@@ -43,10 +43,15 @@ font-family: bodyfont;
 
 .navbar-light .navbar-nav .nav-link {
     color:#28405B !important;
-    font-size: 14px !important;
+    font-size: 11px !important;
     font-family: headingfont !important;
     text-decoration: none !important;
 }
+
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #feb600  !important;
+}
+
 
 .sidebar ul li a {
     color:#28405B ;
@@ -613,18 +618,25 @@ button at top right corner */
      background-color: white;
  }
 
- .back-social{
-     background-image: url(../images/BG.svg);
-     background-repeat: no-repeat;
+
+
+ .back-social :nth-child(1){
      position: relative;
-     width: 29px;
-     background-size: contain;
      cursor: pointer;
+     display: flex;
  }
+
+ .back-social :nth-child(2){
+    margin-left: -18px;
+    margin-bottom: 1px;
+    width: 46%;
+    position: relative;
+}
 
  .footer-copyright{
     font-family: bodyfont;
     font-size: 13px;
+    color:white;
  }
 
  /******************** index *****************/
@@ -646,12 +658,12 @@ button at top right corner */
   .custom_btn button {
     color: white !important;
     background: #243A55;
-    width: 158px;
-    height: 48px;
+    width: 138px;
+    height: 42px;
     border: none;
     border-radius: 10px;
     font-family: headingfont;
-    font-size: 14px;
+    font-size: 12px;
     cursor: pointer;
   }
 
@@ -687,7 +699,7 @@ button at top right corner */
   width: 184px;
   height: 56px;
   margin-left: 23%;
-  top: 7vw;
+  top: 99px;
   background: #243A55;
   border-radius: 10px;
   color: white;
@@ -770,7 +782,7 @@ button at top right corner */
   float: right;
   position: relative;
   top: 286px;
-  margin-right: 25%;
+  margin-right: 11vw;
   font-family: bodyfont;
   font-style: normal;
   font-weight: normal;
@@ -928,6 +940,124 @@ font-size: 12px;
 }
 
 
+
+.line-payments{
+    position: absolute;
+    width: 222px;
+    height: 0px;
+    left: 359px;
+    top: 96px;
+    border-bottom: 3px solid #28405B;
+}
+
+.payment-dot{
+    width: 23px;
+    margin-left: 4%;
+    height: 23px;
+    background: #FF9100;
+    position: absolute;
+    border-radius: 50%;
+    top: 35px;
+}
+
+.payment-heading1{
+        padding-left: 11%;
+        font-size: 50px;
+        color: #28405B;
+        margin-top: 0;
+        font-family: footerheading;
+}
+
+.payment-heading2 {
+    padding-left: 11%;
+    font-size: 50px;
+    color: #FF9100;
+    margin-bottom: 0;
+    font-family: footerheading;
+    position: relative;
+    top:-14px;
+}
+
+.payment-p1{
+    color: #485057;
+    font-size: 20px;
+    padding-left: 11%;
+    font-family: bodyfont;
+}
+
+.par-code {
+    padding-top: 6%;
+}
+
+.par-code1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+
+.par-code1{
+    background-color: #e3e2e2;
+    width: 50%;
+    margin-left: 10%;
+    padding-bottom: 1px;
+    padding-top: 16px;
+    border-radius: 22px;
+}
+.par-code1 img{
+    width: 85%;
+    /* margin-left: 2%; */
+}
+
+.payment-wallet img{
+   position: absolute;
+}
+.payment-wallet h5{
+    margin-left: 109px;
+    margin-top: 9%;
+    position: relative;
+}
+.link-payment{
+    color: #ffb700;
+    font-size: 14px;
+    padding-left: 13px;
+    /* top: 12px; */
+    padding-top: 6px;
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+
+.payment-wallet p{
+    padding-left: 113px;
+    color: #485057;
+    font-family: bodyfont;
+    /* width: 25px; */
+    font-size: 1.1rem;
+}
+
+
+
+.par-1{
+    font-size: 1.1rem;
+    padding-left: 111px;
+    color: #485057;
+}
+
+.par-2{
+    font-size: 1.1rem;
+    padding-left: 111px;
+    position: relative;
+    top: -13px;
+    color: #485057;
+}
+
+
+
+
+
+
+
+
 /************************ carusal **************/
 
 .img-2 img {
@@ -979,19 +1109,7 @@ font-size: 12px;
     transition:  ease-in-out;
 
 }
-/* @media (max-width: 575px) {
 
-    .carousel-inner .carousel-item-right.active,
-    .carousel-inner .carousel-item-next {
-        transform: translateX(50%);
-    }
-
-    .carousel-inner .carousel-item-left.active,
-    .carousel-inner .carousel-item-prev {
-        transform: translateX(-50%);
-    }
-
-} */
 
 /* large - display 3 */
 @media (min-width: 576px) {
@@ -1032,6 +1150,45 @@ font-size: 12px;
 
 @media screen and (max-width: 1024px) and (min-width: 992px) {
 
+    .banner1 .subheading {
+        margin-left: 26%;
+        font-size: 3.2vw;
+    }
+
+    .banner1 .m_heading {
+        font-size: 3.2vw;
+        margin-left: 26%;
+    }
+
+    .banner1 p {
+        top: 77px;
+        margin-left: 28%;
+    }
+    .banner1 button{
+        top: 151px;
+        margin-left: 28%;
+      }
+
+      .second :nth-child(1) {
+        width: 105px;
+      }
+
+      .second :nth-child(2) {
+        width: 105px;
+      }
+
+      .second :nth-child(3) {
+        width: 105px;
+      }
+
+    .blue-back {
+        height: 159px;;
+    }
+
+
+    .about_us {
+        height: 711px;
+    }
  
     .second p {
         top: 289px;
@@ -1079,11 +1236,73 @@ font-size: 12px;
 
 @media screen and (max-width: 991px) and (min-width: 767px) {
 
-    /* .sidebar {
+    .payment-dot {
+        width: 14px;
+        margin-left: 1%;
+        height: 14px;
+        top: 11px;
+    }
 
-        width: 212px;
-    } */
+    .payment-heading1 {
+        font-size: 37px;
+    }
 
+    .payment-heading2 {
+        font-size: 37px;
+        position: relative;
+        top: -10px;
+    }
+
+    .payment-p1 {
+        font-size: 15px;
+    }
+
+    .line-payments {
+        width: 30%;
+        height: 0px;
+        left: 262px;
+        top: 72px;
+    }
+
+    .payment-wallet img {
+        width: 70px;
+    }
+
+    .payment-wallet h5 {
+        margin-left: 24%;
+        margin-top: 9%;
+        font-size: 17px;
+        font-weight: 600;
+    }
+
+    .link-payment {
+        font-size: 15px;
+        padding-left: 5px;
+        padding-top: 6px;
+    }
+
+    .payment-wallet p {
+        padding-left: 24%;
+        font-size: 1rem;
+    }
+    .par-1{
+        font-size: 1rem;
+        padding-left: 24%;
+    }
+
+    .par-2{
+        position:relative;
+        font-size: 1rem;
+        padding-left: 24%;
+        top:-15px;
+    }
+
+    .par-code1 {
+        width: 50%;
+    }
+    .par-code1 p{
+        font-size: 0.7rem;
+    }
     .container{
         padding-left: 10%;
     }
@@ -1140,7 +1359,7 @@ font-size: 12px;
 
  .about_us{
     background-position-x: 14%;
-    height: 168vh;
+    height:675px;
  }
 
 
@@ -1226,7 +1445,7 @@ font-size: 12px;
     top: 44px;
 }
 .blue-back {
-    height: 210px;
+    height: 123px;
 }
 
 /******************* index **************/
@@ -1253,8 +1472,8 @@ font-size: 12px;
   }
   .banner1 p {
     margin-left: 19%;
-    line-height: 6vh;
-    font-size: 13px;
+    line-height: 28px;
+    font-size: 12px;
     top: 142px;
   }
   .banner1 button{
@@ -1262,7 +1481,7 @@ font-size: 12px;
     height: 40px;
     margin-left: 16%;
     font-size: 13px;
-    top: 55vh;
+    top: 183px;
   }
   
   .main-back{
@@ -1290,8 +1509,8 @@ font-size: 12px;
   .second :nth-child(1){
     width: 100px;
     position: relative;
-    top: 92px;
-    margin-left: 149px;
+    top: 98px;
+    margin-left: 133px;
   }
   
   .second :nth-child(2){
@@ -1426,11 +1645,73 @@ font-size: 12px;
 @media screen and (max-width: 766px) and (min-width: 576px)  {
 
 
-    /* .sidebar {
+    .payment-dot {
+        width: 14px;
+        margin-left: 1%;
+        height: 14px;
+        top: 11px;
+    }
 
-        width: 212px;
-    } */
+    .payment-heading1 {
+        font-size: 37px;
+    }
 
+    .payment-heading2 {
+        font-size: 37px;
+        position: relative;
+        top: -10px;
+    }
+
+    .payment-p1 {
+        font-size: 15px;
+    }
+
+    .line-payments {
+        width: 36%;
+        height: 0px;
+        left: 287px;
+        top: 72px;
+    }
+
+    .payment-wallet img {
+        width: 60px;
+    }
+
+    .payment-wallet h5 {
+        margin-left: 13%;
+        margin-top: 9%;
+        font-size: 21px;
+        font-weight: 600;
+    }
+
+    .link-payment {
+        font-size: 15px;
+        padding-left: 5px;
+        padding-top: 6px;
+    }
+
+    .payment-wallet p {
+        padding-left: 13%;
+        font-size: 1rem;
+    }
+    .par-1{
+        font-size: 1rem;
+        padding-left: 13%;
+    }
+
+    .par-2{
+        position:relative;
+        font-size: 1rem;
+        padding-left: 13%;
+        top:-15px;
+    }
+
+    .par-code1 {
+        width: 50%;
+    }
+    .par-code1 p{
+        font-size: 0.7rem;
+    }
  
 
     .container{
@@ -1491,7 +1772,8 @@ font-size: 12px;
         display: block;
         padding-left: 10%;
         width: 94%;
-        padding-right: 10%
+        padding-right: 10%;
+        margin-top: 59px;
     }
 
     .about_us .about1 {
@@ -1647,7 +1929,7 @@ font-size: 12px;
     width: 124px;
     height: 49px;
     margin-left: 6%;
-    top: 11vw;
+    top: 58px;
     border-radius: 10px;
    }
 
@@ -1741,15 +2023,73 @@ font-size: 12px;
 
 @media screen and (max-width: 575px) and (min-width: 320px)  {
 
+    .payment-dot {
+        width: 14px;
+        margin-left: 1%;
+        height: 14px;
+        top: 11px;
+    }
 
+    .payment-heading1 {
+        font-size: 25px;
+    }
 
+    .payment-heading2 {
+        font-size: 25px;
+        position: relative;
+        top: -10px;
+    }
 
-    /* .sidebar {
-        padding-top: 20px;
-        width: 156px;
-        box-shadow : 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-        border-radius: 20px;
-    } */
+    .payment-p1 {
+        font-size: 11px;
+    }
+
+    .line-payments {
+        width: 23%;
+        height: 0px;
+        left: 199px;
+        top: 49px;
+    }
+
+    .payment-wallet img {
+        width: 50px;
+    }
+
+    .payment-wallet h5 {
+        margin-left: 24%;
+        margin-top: 9%;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .link-payment {
+        font-size: 12px;
+        padding-left: 5px;
+        padding-top: 6px;
+    }
+
+    .payment-wallet p {
+        padding-left: 24%;
+        font-size: 0.5rem;
+    }
+    .par-1{
+        font-size:0.7rem;
+        padding-left: 24%;
+    }
+
+    .par-2{
+        position:relative;
+        font-size:0.7rem;
+        padding-left: 24%;
+        top:-15px;
+    }
+
+    .par-code1 {
+        width: 50%;
+    }
+    .par-code1 p{
+        font-size: 0.7rem;
+    }
 
     .sidebar .closebtn {
         right: 6px;
@@ -1830,20 +2170,6 @@ font-size: 12px;
     }
     
 
-    /* .carousel-inner2 .carousel-inner.carousel-item-right.active,
-    .carousel-inner2 .carousel-inner.carousel-item-next {
-        transform: translateX(100%);
-        opacity: 0;
-        transition: 5ms ease-in-out;
-    }
-
-    .carousel-inner2.carousel-inner .carousel-item-right.active,
-    .carousel-inner2 .carousel-inner.carousel-item-prev {
-        transform: translateX(-100%);
-        opacity: 0;
-        transition: 5ms ease-in-out;
-    } */
-
     .navbar-light .navbar-nav .nav-link {
         font-size: 9px !important;
     }
@@ -1899,7 +2225,7 @@ font-size: 12px;
         display: block;
         padding-left: 10%;
         width: 94%;
-        margin-top: 0;
+       margin-top: 81px;
     }
 
     .about_us .about1 {
@@ -2099,8 +2425,7 @@ font-size: 12px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 49vh;
-        top: -7px;
+        height: 345px;
     }
     .img-1 img{
         width: 74%;
@@ -2137,7 +2462,7 @@ font-size: 12px;
     }
 
     .banner1 p {
-        top: 11vh;
+        top: 45px;
         margin-left: 7%;
         line-height: 21px;
         font-size: 12px;
@@ -2149,7 +2474,7 @@ font-size: 12px;
     width: 90px;
     height: 34px;
     margin-left: 6%;
-    top: 17vh;
+    top: 75px;
     border-radius: 10px;
     font-size: 10px;
    }
@@ -2167,7 +2492,7 @@ font-size: 12px;
    .second {
     /* background-size: contain; */
     background-repeat: no-repeat;
-    height: 51vh;
+    height: 290px;
     position: relative;
     margin-top: -23px; 
     background-position-y: 0;
@@ -2192,7 +2517,7 @@ font-size: 12px;
 .second p {
     float: left;
     position: relative;
-    top: 38vh;
+    top: 235px;
     margin-left: 4%;
     color: white;
     text-decoration-line: underline;
@@ -2205,19 +2530,19 @@ font-size: 12px;
     margin-left: 39vw;
     width: 19vw;
     position: absolute;
-    top: 11vh;
+    top: 46px;
 }
 
 .second :nth-child(2){
     width: 20vw;
     margin-left: 49vw;
-    top: 18vh;
+    top: 94px;
     position: absolute;
 }
 .second :nth-child(3){
     width: 20vw;
     margin-left: 62vw;
-    top: 26vh;
+    top: 141px;
     position: absolute;
 }
 
@@ -2297,6 +2622,7 @@ font-size: 12px;
     /************ contact *********/
     .display-contact span {
         font-size: 11px;
+        color:white;
     }
  
 
