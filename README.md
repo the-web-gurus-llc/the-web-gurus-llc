@@ -1,5 +1,5 @@
 
-# Full-Stack Native/Hybrid mobile, Javascript ( Vue, React, Angular ), Node.js + Express API / PHP, Golang, Django, WordPress and Laravel Team
+# Full-Stack Native/Hybrid mobile, Javascript ( Vue, React, Angular ), Node.js + Express API / PHP, Solidity, Golang, Django, WordPress and Laravel Team
 
 You don't just need a website. You need a product that makes people want to stick around, whether it's a SPA or a full-featured web app.
 
@@ -12,7 +12,7 @@ We have experience in design and development of the front end and back end sides
 
 ## Programming Languages:
 
-HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift
+HTML | CSS | JavaScript | TypeScript | PHP | C# | Python | Java | Kotlin | Swift | Solidity
 
 
 
@@ -34,6 +34,8 @@ MySQL | MongoDB | Postgres | DynamoDB | Firebase
 REST API | GraphQL
 
 ## What we do:
+
+• Blockchain development
 
 • Front-end development
 
